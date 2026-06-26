@@ -35,4 +35,4 @@ Projeto desenvolvido para praticar conceitos de Java Orientado a Objetos.
 
 ## Status do Projeto
 
-Em desenvolvimento 🚧
+Em desenvolvimento
